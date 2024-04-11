@@ -1,0 +1,7 @@
+fenics
+numpy
+matplotlib
+plotly
+pandas
+streamlit
+math
